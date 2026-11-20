@@ -1,0 +1,81 @@
+text,label
+"The Borrower shall pay all amounts due under this Agreement on the last business day of each month.",payment
+"Payment shall be made in immediately available funds to the account designated by the Lender.",payment
+"All fees are payable within thirty days of the date of invoice.",payment
+"The Customer shall remit each installment to the Bank by wire transfer.",payment
+"Any payment due on a day that is not a business day shall be made on the next business day.",payment
+"The Borrower shall repay the principal in equal monthly installments.",payment
+"All payments shall be made without set-off or counterclaim.",payment
+"The Company shall pay the Servicer a monthly fee for the services rendered.",payment
+"Payments under this Agreement shall be made in United States dollars.",payment
+"The Buyer shall pay the purchase price in full at closing.",payment
+"Interest shall accrue on the outstanding principal at a rate of eight percent per annum.",interest
+"The interest rate shall be adjusted quarterly based on the benchmark rate.",interest
+"Interest shall be calculated on the basis of a year of three hundred sixty days.",interest
+"Overdue amounts shall bear interest at the default rate until paid in full.",interest
+"The Borrower shall pay accrued interest on each interest payment date.",interest
+"The applicable margin shall be added to the reference rate to determine the interest rate.",interest
+"Interest on the loan shall be compounded monthly.",interest
+"Accrued interest shall be capitalized and added to the principal balance.",interest
+"The annual percentage rate shall not exceed the maximum permitted by law.",interest
+"Interest shall cease to accrue on the date the principal is repaid in full.",interest
+"Each party shall keep the Confidential Information strictly confidential.",confidentiality
+"The Receiving Party shall not disclose Confidential Information to any third party without prior written consent.",confidentiality
+"Confidential Information shall be used solely for the purpose of evaluating the transaction.",confidentiality
+"The obligations of confidentiality shall survive for five years after termination.",confidentiality
+"The Recipient shall protect the information with the same degree of care it uses for its own.",confidentiality
+"Confidential Information does not include information that is publicly available.",confidentiality
+"Upon request the Recipient shall return or destroy all confidential materials.",confidentiality
+"A party may disclose Confidential Information if required by law or court order.",confidentiality
+"Neither party shall make any public announcement regarding this Agreement.",confidentiality
+"Access to confidential information shall be limited to employees who need to know it.",confidentiality
+"Either party may terminate this Agreement upon thirty days written notice.",termination
+"This Agreement shall terminate automatically upon the bankruptcy of either party.",termination
+"The Lender may terminate the commitment at any time by giving notice to the Borrower.",termination
+"Upon termination all outstanding amounts shall become immediately due.",termination
+"This Agreement shall remain in effect until terminated in accordance with its terms.",termination
+"Termination of this Agreement shall not affect rights accrued before the termination date.",termination
+"Either party may terminate for convenience by providing ninety days prior notice.",termination
+"The Agreement expires on the third anniversary of the effective date unless renewed.",termination
+"A party may terminate this Agreement immediately if the other party materially breaches it.",termination
+"Sections that by their nature should survive shall survive termination.",termination
+"This Agreement shall be governed by the laws of the State of New York.",governing_law
+"Any dispute arising under this Agreement shall be resolved in the courts of London.",governing_law
+"The parties submit to the exclusive jurisdiction of the courts of Delaware.",governing_law
+"This Agreement shall be construed in accordance with the laws of India.",governing_law
+"Any dispute shall be finally settled by arbitration under the rules of the arbitration institute.",governing_law
+"Each party irrevocably waives any right to a jury trial.",governing_law
+"The venue for any legal action shall be the county where the Lender has its principal office.",governing_law
+"The laws of England and Wales shall govern this Agreement and any non-contractual obligations.",governing_law
+"The courts of Bengaluru shall have exclusive jurisdiction over all disputes.",governing_law
+"The seat of arbitration shall be Singapore and the language shall be English.",governing_law
+"The Borrower shall indemnify the Lender against all losses arising from any breach of this Agreement.",indemnification
+"The Seller shall defend and hold harmless the Buyer from third party claims.",indemnification
+"Each party agrees to indemnify the other for damages caused by its negligence.",indemnification
+"The Indemnifying Party shall reimburse the Indemnitee for reasonable legal fees.",indemnification
+"The Company shall hold the Bank harmless from any claim relating to the use of the account.",indemnification
+"This indemnity shall survive the repayment of all obligations.",indemnification
+"The Indemnitee shall promptly notify the Indemnifying Party of any claim.",indemnification
+"The Contractor shall indemnify the Client against claims of intellectual property infringement.",indemnification
+"The indemnification obligations apply to losses costs and expenses of every kind.",indemnification
+"The Guarantor shall indemnify the Bank for any loss resulting from a failure to perform.",indemnification
+"Neither party shall be liable for any indirect or consequential damages.",liability
+"The total liability of the Bank under this Agreement shall not exceed the fees paid in the prior year.",liability
+"In no event shall the Provider be liable for loss of profits.",liability
+"Nothing in this Agreement limits liability for fraud or willful misconduct.",liability
+"The Lender shall have no liability for delays caused by events beyond its control.",liability
+"The aggregate liability of either party shall be capped at one million dollars.",liability
+"The Company disclaims all warranties express or implied.",liability
+"No party shall be responsible for losses caused by force majeure events.",liability
+"The liability of the Servicer is limited to direct damages actually incurred.",liability
+"Neither party excludes liability for death or personal injury caused by negligence.",liability
+"An Event of Default occurs if the Borrower fails to pay any amount when due.",default
+"Upon an Event of Default the Lender may declare all obligations immediately due and payable.",default
+"The Borrower shall be in default if any representation proves to be false.",default
+"A default shall occur if the Borrower becomes insolvent or files for bankruptcy.",default
+"The Borrower has ten days to cure any payment default after written notice.",default
+"Failure to maintain the required insurance constitutes an event of default.",default
+"The Lender may exercise all remedies available at law upon default.",default
+"A breach of any covenant that continues for thirty days is a default.",default
+"Cross default occurs if the Borrower defaults on any other material debt.",default
+"After default the Lender may enforce its security interest in the collateral.",default
