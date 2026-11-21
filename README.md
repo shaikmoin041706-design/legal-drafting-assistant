@@ -46,12 +46,46 @@ python -m app.cli assist "Interest shall"
 
 ## Evaluation
 
-`train-ngram` reports top-3 next-word accuracy on a held-out 20% split. `train-classifier` reports classification accuracy on the same kind of stratified split. Paste your own numbers here after you run them:
+`train-ngram` reports top-3 next-word accuracy on a held-out 20% split. `train-classifier` reports classification accuracy on the same kind of stratified split. 
 
 |Model|Metric|Result|
 |-|-|-|
-|n-gram (n=3)|top-3 next-word accuracy|*32.4*|
-|fine-tuned GPT-2|classification accuracy|*31.2*|
+|n-gram (n=3)|top-3 next-word accuracy|32.4|
+|fine-tuned GPT-2|classification accuracy|31.2|
+
+\## Data and model
+
+
+
+\*\*Data:\*\* `data/clauses.csv`, 80 short sentences from banking and finance
+
+agreements, each labeled with one of 8 clause types: payment, interest,
+
+confidentiality, termination, governing\_law, indemnification, liability,
+
+default. <these were given by thilly>
+
+
+
+\*\*Models:\*\*
+
+\* The n-gram drafting model is implemented from scratch in `app/core.py`.
+
+\* The classifier is the pretrained `gpt2` model from Hugging Face,
+
+&#x20; fine-tuned with `GPT2ForSequenceClassification` on the 8 labels
+
+&#x20; (`app/llm.py`).
+
+
+
+\*\*Weights are not included in this repo.\*\* The fine-tuned classifier in
+
+`artifacts/classifier/` is about 500 MB, over GitHub's 100 MB file limit.
+
+Recreate it with `python -m app.cli train-classifier`, which takes a few
+
+minutes on CPU.
 
 ## Tests
 
