@@ -46,7 +46,7 @@ python -m app.cli assist "Interest shall"
 
 ## Evaluation
 
-`train-ngram` reports top-3 next-word accuracy on a held-out 20% split. `train-classifier` reports classification accuracy on the same kind of stratified split. 
+`train-ngram` reports top-3 next-word accuracy on a held-out 20% split. `train-classifier` reports classification accuracy on the same kind of stratified split.
 
 |Model|Metric|Result|
 |-|-|-|
